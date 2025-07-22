@@ -1,7 +1,7 @@
 # Tower Defense Game (Java)
 
 ## 🛡️ Overview
-This is a Java-based **Tower Defense Game** that blends real-time gameplay with a modular, object-oriented design. Players place "B Cell" towers to defend against waves of invading bacteria. Towers automatically fire antibody projectiles, and enemies respawn through a wave generator.
+This is a Java-based **Tower Defense Game** that blends real-time gameplay with a modular, object-oriented design. Players place immune cell 'towers' to defend against waves of invading bacteria. Towers automatically fire antibody projectiles, and enemies respawn through a wave generator.
 
 The game provides a clean demonstration of animation, interaction, and game-loop management — all written in plain Java.
 
